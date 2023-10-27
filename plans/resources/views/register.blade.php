@@ -11,7 +11,8 @@
                     <div class="col-md-7">
                         <div class="card-body">
                             <div class="brand-wrapper">
-                                <a href="{{ url('/') }}"><img src="https://scontent.fhan14-4.fna.fbcdn.net/v/t1.15752-9/377108762_977636013521667_3043879330728309608_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=7aZr5Q94m1sAX-t7MjY&_nc_ht=scontent.fhan14-4.fna&oh=03_AdSuWd0QA8Yn2TVZ3EdkSEUM6f7FCJgyY4gdmti_Gxr9OQ&oe=652FAB57" alt="logo" title="Go to home" class="logo" /></a>
+                                <a href="{{ url('/') }}"><img src="https://res.cloudinary.com/dx2o9ki2g/image/upload/v1698238484/gsuwxjg7gfnhs4fgrxsd.jpg
+" alt="logo" title="Go to home" class="logo" /></a>
                             </div>
                             <p class="login-card-description">Register account</p>
                             <form action="{{ route('register') }}" method="post">
